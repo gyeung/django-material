@@ -7768,7 +7768,7 @@ select {
 .picker__select--year.browser-default {
   display: inline;
   background-color: #FFFFFF;
-  width: 25%; }
+  width: 30%; }
 
 .picker__select--month:focus, .picker__select--year:focus {
   border-color: rgba(0, 0, 0, 0.05); }
